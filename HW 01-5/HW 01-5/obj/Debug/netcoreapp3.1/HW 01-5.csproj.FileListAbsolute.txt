@@ -1,0 +1,12 @@
+C:\Users\Me\Desktop\homework 01.09\HW 01-5\HW 01-5\bin\Debug\netcoreapp3.1\HW 01-5.exe
+C:\Users\Me\Desktop\homework 01.09\HW 01-5\HW 01-5\bin\Debug\netcoreapp3.1\HW 01-5.deps.json
+C:\Users\Me\Desktop\homework 01.09\HW 01-5\HW 01-5\bin\Debug\netcoreapp3.1\HW 01-5.runtimeconfig.json
+C:\Users\Me\Desktop\homework 01.09\HW 01-5\HW 01-5\bin\Debug\netcoreapp3.1\HW 01-5.runtimeconfig.dev.json
+C:\Users\Me\Desktop\homework 01.09\HW 01-5\HW 01-5\bin\Debug\netcoreapp3.1\HW 01-5.dll
+C:\Users\Me\Desktop\homework 01.09\HW 01-5\HW 01-5\bin\Debug\netcoreapp3.1\HW 01-5.pdb
+C:\Users\Me\Desktop\homework 01.09\HW 01-5\HW 01-5\obj\Debug\netcoreapp3.1\HW 01-5.AssemblyInfoInputs.cache
+C:\Users\Me\Desktop\homework 01.09\HW 01-5\HW 01-5\obj\Debug\netcoreapp3.1\HW 01-5.AssemblyInfo.cs
+C:\Users\Me\Desktop\homework 01.09\HW 01-5\HW 01-5\obj\Debug\netcoreapp3.1\HW 01-5.csproj.CoreCompileInputs.cache
+C:\Users\Me\Desktop\homework 01.09\HW 01-5\HW 01-5\obj\Debug\netcoreapp3.1\HW 01-5.dll
+C:\Users\Me\Desktop\homework 01.09\HW 01-5\HW 01-5\obj\Debug\netcoreapp3.1\HW 01-5.pdb
+C:\Users\Me\Desktop\homework 01.09\HW 01-5\HW 01-5\obj\Debug\netcoreapp3.1\HW 01-5.genruntimeconfig.cache
